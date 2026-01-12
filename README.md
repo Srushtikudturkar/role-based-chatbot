@@ -120,8 +120,9 @@ npm install
 npm start
 ```
 
-Notes
-node_modules and .env files are excluded for security.
-.env.example is provided for environment setup.
- Role-based access is enforced using middleware.
+### Notes
+- node_modules and .env files are excluded for security.
+- .env.example is provided for environment setup.
+- Role-based access is enforced using middleware.
+
 
